@@ -5,8 +5,7 @@ by *Active Continuous Learning* to reduce **human labeling** and **edge
 storage**. It helps to judiciously select small but valuable partitions
 of video frames for continuous learning in video analytics.
 
-> 🧑‍💻 This project is open for discussion and cooperation,
-> please contact us if you are interested.
+- [2022.11.06] Our [paper](https://raw.githubusercontent.com/leeeizhang/leeeizhang/refs/heads/assets/actvideo.pdf) is accepted to ACM SenSys'22 CML-IOT Workshop.
 
 ## Repository Organization
 
@@ -39,7 +38,7 @@ of video frames for continuous learning in video analytics.
 $ pip3 install -u -r requirements.txt
 ```
 
-2. Download prepared datasets (release sooner), and then unzip on the projects root path.
+2. Download prepared datasets ([Google Drive](https://drive.google.com/file/d/1b0SWDmDR7WAahO8OTyAfwBicGhHXCAVL/view?usp=sharing)), and then unzip on the projects root path.
 
 ```shell
 $ tar -zxvf ***.tar.gz
@@ -66,13 +65,9 @@ The codes are expanded on the Active-Learning-as-a-Service
 ([ALaaS](https://github.com/MLSysOps/Active-Learning-as-a-Service)), and
 Video-Platform-as-a-Service ([VPaaS](https://arxiv.org/abs/2102.03012)).
 
-This project is still under demo developing. Pull requests are more than welcome! If you have any questions please feel
-free to contact us.
+This project is still under demo developing. Pull requests are more than welcome! 
 
-Contact:
-[Guanyu Gao](mailto:gygao@njust.edu.cn),
-[Lei Zhang](mailto:lei.zhang@njust.edu.cn),
-[Huaizheng Zhang](mailto:huaizhen001@e.ntu.edu.sg)
+If you have any questions please feel free to contact us.
 
 ## Cite us
 
